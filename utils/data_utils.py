@@ -6,7 +6,7 @@ import re
 from torch.utils.data import Dataset, DataLoader
 from transformers import AutoTokenizer
 
-#####
+###
 # Term Extraction Airy
 #####
 class AspectExtractionDataset(Dataset):
